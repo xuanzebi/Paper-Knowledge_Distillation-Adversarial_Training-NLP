@@ -1,5 +1,5 @@
 # Knowledge Distillation 和 Adversarial Training 与 NLP 相关的论文收集
-分享一下自己看论文收集总结的一些paper. 持续更新~
+分享一下自己看论文收集总结的一些paper. 持续更新~   欢迎大家来一起更新呀
 
 ### Adversarial Training
 -   [Technical report on Conversational Question Answering](https://arxiv.org/pdf/1909.10772) 2019 问答任务中基于RoBERTa融合对抗样本以及知识蒸馏技术
