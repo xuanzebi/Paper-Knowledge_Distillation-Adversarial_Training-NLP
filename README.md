@@ -16,3 +16,14 @@
 - [TINYBERT: DISTILLING BERT FOR NATURAL LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.10351.pdf) 2019
 - [Technical report on Conversational Question Answering](https://arxiv.org/pdf/1909.10772) 2019 
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136.pdf) 2019
+
+
+
+
+
+
+
+> [awesome-knowledge-distillation]: https://github.com/dkozlov/awesome-knowledge-distillation
+>
+> 
+
