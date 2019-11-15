@@ -25,9 +25,6 @@
 
 #### 其他资源
 
-[awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation )
-
-[Adversarial_Learning_Paper](https://github.com/Guo-Yunzhe/Adversarial_Learning_Paper)
-
-[Adversarial-Machine-Learning](https://github.com/tanjuntao/Adversarial-Machine-Learning)
-
+- [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation )
+- [Adversarial_Learning_Paper](https://github.com/Guo-Yunzhe/Adversarial_Learning_Paper)
+- [Adversarial-Machine-Learning](https://github.com/tanjuntao/Adversarial-Machine-Learning)
