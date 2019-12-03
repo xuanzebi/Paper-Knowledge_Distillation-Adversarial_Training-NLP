@@ -16,8 +16,7 @@
 - [TINYBERT: DISTILLING BERT FOR NATURAL LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.10351.pdf) 2019
 - [Technical report on Conversational Question Answering](https://arxiv.org/pdf/1909.10772) 2019 
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136.pdf) 2019
-
-
+- [Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/pdf/1904.09482v1.pdf) 2019   [code](https://github.com/namisan/mt-dnn)
 
 
 
