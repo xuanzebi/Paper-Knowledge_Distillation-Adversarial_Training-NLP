@@ -7,6 +7,7 @@
 -    [Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence with Adversarial Examples  ](https://arxiv.org/pdf/1803.01128.pdf)  2018
 -    [ADVERSARIAL TRAINING METHODS FOR SEMI-SUPERVISED TEXT CLASSIFICATION](https://arxiv.org/pdf/1605.07725.pdf) 2016 [code1](https://github.com/tensorflow/models/tree/master/research/adversarial_text)  [code2](https://github.com/TobiasLee/Text-Classification/blob/master/models/adversarial_abblstm.py)
 -    [FREELB: ENHANCED ADVERSARIAL TRAINING FOR LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.11764.pdf) 2019
+-    [A Survey: Towards a Robust Deep Neural Network in Text](https://arxiv.org/pdf/1902.07285/)
 
 
 
