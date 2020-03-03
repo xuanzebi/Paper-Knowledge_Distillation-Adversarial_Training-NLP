@@ -38,4 +38,7 @@
 - [Adversarial_Learning_Paper](https://github.com/Guo-Yunzhe/Adversarial_Learning_Paper)
 - [Adversarial-Machine-Learning](https://github.com/tanjuntao/Adversarial-Machine-Learning)
 - [PLMpapers](https://github.com/thunlp/PLMpapers)
+- [A PyTorch-based knowledge distillation toolkit for natural language processing](https://github.com/airaria/TextBrewer)
+- [一文搞懂NLP中的对抗训练](https://zhuanlan.zhihu.com/p/103593948)
+- [【炼丹技巧】功守道：NLP中的对抗训练 + PyTorch实现](https://zhuanlan.zhihu.com/p/91269728)
 
